@@ -15,7 +15,7 @@
 ## 사용법
 
 ```typescript
-import {josa} from "https://denopkg.com/mrchypark/josa_deno/mod.ts";)
+import {josa} from "https://denopkg.com/mrchypark/josa_deno/mod.ts";
 ```
 
 아래는 대표 사용법으로, 전체 설명서는 [josa](https://github.com/kimdhoe/josa)의 readme를 참고해주세요. 이 자리를 빌어 좋은 패키지 공유해주신 [kimdhoe](https://github.com/kimdhoe)님 감사합니다.
