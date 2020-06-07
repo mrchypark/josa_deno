@@ -2,17 +2,8 @@
   <h1>josa_deno</h1>
 
   <p>
-    <a href="https://travis-ci.org/kimdhoe/josa">
-      <img src="https://img.shields.io/travis/kimdhoe/josa.svg" alt="Travis">
-    </a>
-    <a href="https://codecov.io/gh/kimdhoe/josa">
-      <img src="https://img.shields.io/codecov/c/github/kimdhoe/josa.svg" alt="Codecov">
-    </a>
     <a href="https://github.com/mrchypark/josa_deno/blob/master/LICENSE.md">
       <img src="https://img.shields.io/github/license/mrchypark/josa_deno.svg" alt="license">
-    </a>
-    <a href="https://github.com/semantic-release/semantic-release">
-      <img src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg" alt="semantic-release">
     </a>
   </p>
 </div>
